@@ -3,4 +3,4 @@
 
 EXPERIMENTAL
 
-Based on latest Alpine Linux. Includes Amazon AWS CLI and build tools for uploading to AWS ElasticBeanstalk.
+Based on latest Alpine Linux. Includes Amazon AWS CLI and build tools, e.g. for uploading to AWS ElasticBeanstalk.
